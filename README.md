@@ -1,4 +1,4 @@
-# BUSINESS-ANALYSIS-OF-MUSIC-STORE
+# MUSIC-STORE-BUSINESS_ANALYSIS
 Valuable business insights for sales and marketing of a Music Store.
 
 📌𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲 :
